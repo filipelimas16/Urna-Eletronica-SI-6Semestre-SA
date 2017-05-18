@@ -52,6 +52,11 @@ namespace UrnaEletronica
             tempo.Start();
         }
 
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void temp(object sender, EventArgs e)
         {
             contUm--;

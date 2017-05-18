@@ -293,9 +293,10 @@
             this.label3.ForeColor = System.Drawing.Color.White;
             this.label3.Location = new System.Drawing.Point(600, 158);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(177, 22);
+            this.label3.Size = new System.Drawing.Size(84, 22);
             this.label3.TabIndex = 22;
-            this.label3.Text = "30- Cersei Lannister";
+            this.label3.Text = "30- Teste";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label4
             // 
