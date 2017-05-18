@@ -1,0 +1,69 @@
+h:\users\usuario\documents\visual studio 2015\Projects\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.exe.config
+h:\users\usuario\documents\visual studio 2015\Projects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.csprojResolveAssemblyReference.cache
+h:\users\usuario\documents\visual studio 2015\Projects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.Form1.resources
+h:\users\usuario\documents\visual studio 2015\Projects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.Properties.Resources.resources
+h:\users\usuario\documents\visual studio 2015\Projects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.csproj.GenerateResource.Cache
+h:\users\usuario\documents\visual studio 2015\Projects\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.exe
+h:\users\usuario\documents\visual studio 2015\Projects\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.pdb
+h:\users\usuario\documents\visual studio 2015\Projects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.exe
+h:\users\usuario\documents\visual studio 2015\Projects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.pdb
+C:\Users\Filipe\Desktop\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.exe.config
+C:\Users\Filipe\Desktop\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.exe
+C:\Users\Filipe\Desktop\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.pdb
+C:\Users\Filipe\Desktop\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.exe
+C:\Users\Filipe\Desktop\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.pdb
+C:\Users\Filipe\Desktop\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.csprojResolveAssemblyReference.cache
+C:\Users\Filipe\Desktop\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.Form1.resources
+C:\Users\Filipe\Desktop\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.Properties.Resources.resources
+C:\Users\Filipe\Desktop\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.csproj.GenerateResource.Cache
+C:\Users\Filipe\Desktop\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.Form2.resources
+h:\Users\Usuario\Desktop\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.exe.config
+h:\Users\Usuario\Desktop\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.exe
+h:\Users\Usuario\Desktop\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.pdb
+h:\Users\Usuario\Desktop\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.exe
+h:\Users\Usuario\Desktop\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.pdb
+h:\Users\Usuario\Desktop\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.csprojResolveAssemblyReference.cache
+h:\Users\Usuario\Desktop\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.Form1.resources
+h:\Users\Usuario\Desktop\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.Form2.resources
+h:\Users\Usuario\Desktop\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.Properties.Resources.resources
+h:\Users\Usuario\Desktop\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.csproj.GenerateResource.Cache
+C:\Users\Filipe\Documents\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.exe.config
+C:\Users\Filipe\Documents\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.exe
+C:\Users\Filipe\Documents\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.pdb
+C:\Users\Filipe\Documents\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.csprojResolveAssemblyReference.cache
+C:\Users\Filipe\Documents\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.Form1.resources
+C:\Users\Filipe\Documents\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.Form2.resources
+C:\Users\Filipe\Documents\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.Properties.Resources.resources
+C:\Users\Filipe\Documents\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.csproj.GenerateResource.Cache
+C:\Users\Filipe\Documents\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.exe
+C:\Users\Filipe\Documents\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.pdb
+h:\Users\Usuario\Desktop\UrnaEletronicaFinal\UrnaEletronica\bin\Debug\UrnaEletronica.exe.config
+h:\Users\Usuario\Desktop\UrnaEletronicaFinal\UrnaEletronica\obj\Debug\UrnaEletronica.exe
+h:\Users\Usuario\Desktop\UrnaEletronicaFinal\UrnaEletronica\obj\Debug\UrnaEletronica.pdb
+h:\Users\Usuario\Desktop\UrnaEletronicaFinal\UrnaEletronica\bin\Debug\UrnaEletronica.exe
+h:\Users\Usuario\Desktop\UrnaEletronicaFinal\UrnaEletronica\bin\Debug\UrnaEletronica.pdb
+h:\Users\Usuario\Desktop\UrnaEletronicaFinal\UrnaEletronica\obj\Debug\UrnaEletronica.csprojResolveAssemblyReference.cache
+h:\Users\Usuario\Desktop\UrnaEletronicaFinal\UrnaEletronica\obj\Debug\UrnaEletronica.Form1.resources
+h:\Users\Usuario\Desktop\UrnaEletronicaFinal\UrnaEletronica\obj\Debug\UrnaEletronica.Form2.resources
+h:\Users\Usuario\Desktop\UrnaEletronicaFinal\UrnaEletronica\obj\Debug\UrnaEletronica.Properties.Resources.resources
+h:\Users\Usuario\Desktop\UrnaEletronicaFinal\UrnaEletronica\obj\Debug\UrnaEletronica.csproj.GenerateResource.Cache
+C:\Users\Filipe\Desktop\UrnaEletronicaFinal\UrnaEletronica\bin\Debug\UrnaEletronica.exe.config
+C:\Users\Filipe\Desktop\UrnaEletronicaFinal\UrnaEletronica\obj\Debug\UrnaEletronica.exe
+C:\Users\Filipe\Desktop\UrnaEletronicaFinal\UrnaEletronica\obj\Debug\UrnaEletronica.pdb
+C:\Users\Filipe\Desktop\UrnaEletronicaFinal\UrnaEletronica\bin\Debug\UrnaEletronica.exe
+C:\Users\Filipe\Desktop\UrnaEletronicaFinal\UrnaEletronica\bin\Debug\UrnaEletronica.pdb
+C:\Users\Filipe\Desktop\UrnaEletronicaFinal\UrnaEletronica\obj\Debug\UrnaEletronica.csprojResolveAssemblyReference.cache
+C:\Users\Filipe\Desktop\UrnaEletronicaFinal\UrnaEletronica\obj\Debug\UrnaEletronica.Form1.resources
+C:\Users\Filipe\Desktop\UrnaEletronicaFinal\UrnaEletronica\obj\Debug\UrnaEletronica.Form2.resources
+C:\Users\Filipe\Desktop\UrnaEletronicaFinal\UrnaEletronica\obj\Debug\UrnaEletronica.Properties.Resources.resources
+C:\Users\Filipe\Desktop\UrnaEletronicaFinal\UrnaEletronica\obj\Debug\UrnaEletronica.csproj.GenerateResource.Cache
+E:\Executaveis liberados\UrnaEletronicaFinal\UrnaEletronica\bin\Debug\UrnaEletronica.exe.config
+E:\Executaveis liberados\UrnaEletronicaFinal\UrnaEletronica\obj\Debug\UrnaEletronica.exe
+E:\Executaveis liberados\UrnaEletronicaFinal\UrnaEletronica\obj\Debug\UrnaEletronica.pdb
+E:\Executaveis liberados\UrnaEletronicaFinal\UrnaEletronica\bin\Debug\UrnaEletronica.exe
+E:\Executaveis liberados\UrnaEletronicaFinal\UrnaEletronica\bin\Debug\UrnaEletronica.pdb
+E:\Executaveis liberados\UrnaEletronicaFinal\UrnaEletronica\obj\Debug\UrnaEletronica.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\UrnaEletronicaFinal\UrnaEletronica\obj\Debug\UrnaEletronica.Form1.resources
+E:\Executaveis liberados\UrnaEletronicaFinal\UrnaEletronica\obj\Debug\UrnaEletronica.Form2.resources
+E:\Executaveis liberados\UrnaEletronicaFinal\UrnaEletronica\obj\Debug\UrnaEletronica.Properties.Resources.resources
+E:\Executaveis liberados\UrnaEletronicaFinal\UrnaEletronica\obj\Debug\UrnaEletronica.csproj.GenerateResource.Cache
